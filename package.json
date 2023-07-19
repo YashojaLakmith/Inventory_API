@@ -8,7 +8,7 @@
     "express-rate-limit": "^6.4.0",
     "helmet": "^5.0.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.3.0",
+    "mongoose": "^7.3.3",
     "xss-clean": "^0.1.1"
   },
   "devDependencies": {
